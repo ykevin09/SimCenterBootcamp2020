@@ -1,0 +1,1 @@
+/bin/c++    -rdynamic CMakeFiles/ex5.dir/main5.cpp.o  -o ex5  libShapeLib.a 
